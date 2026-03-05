@@ -60,3 +60,8 @@ If you find this work useful for your research, please consider citing:
   journal={Journal/Conference Name},
   year={2024}
 }
+```
+
+## 📧 Contact
+
+For any questions, please open an issue or contact xilin.chibchin@outlook.com
