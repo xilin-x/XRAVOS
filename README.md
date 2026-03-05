@@ -1,4 +1,4 @@
-# AngioVOS: Few-Shot Video Object Segmentation in X-Ray Angiography
+# XRAVOS: Few-Shot Video Object Segmentation in X-Ray Angiography
 
 This repository is the official implementation of the paper:
 **"Few-Shot Video Object Segmentation in X-Ray Angiography Using Local Matching and Spatio-Temporal Consistency Loss"**
