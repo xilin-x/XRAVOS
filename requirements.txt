@@ -1,0 +1,9 @@
+opencv-python
+progressbar2
+gdown
+gitpython
+git+https://github.com/cheind/py-thin-plate-spline
+hickle
+tensorboard
+numpy==1.23.5
+scikit-image
